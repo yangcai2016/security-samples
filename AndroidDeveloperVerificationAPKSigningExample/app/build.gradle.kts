@@ -21,11 +21,11 @@ plugins {
 }
 
 android {
-    namespace = "com.androiddeveloperverification.onboarding"
+    namespace = "jajaya.aihome"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.androiddeveloperverification.onboarding"
+        applicationId = "jajaa.aihome"
         minSdk = 33
         targetSdk = 35
         versionCode = 1
